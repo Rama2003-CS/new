@@ -1,0 +1,26 @@
+#footer{
+    background-color: rgb(252, 252, 167);
+    position:fixed; 
+    width: 100%;
+    bottom: 0%;
+    padding: 0px;
+    text-align: center;
+    text-transform: capitalize;
+    box-sizing: border-box;
+    
+}
+.ptag{
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    grid-gap: 20px;  
+}
+#ptag1{
+    text-align: center;
+}
+#ptag2{
+    text-align: center;
+}
+#ptag2 a{
+    display: block;
+}

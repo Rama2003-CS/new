@@ -1,0 +1,26 @@
+#imge{
+    display: inline;
+    border-radius: 25px;
+    
+}
+#imge:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+}
+#navbarSupportedContent{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10%;
+    color: rgb(138, 53, 53);
+}
+#image1{
+    float: left;
+    margin-right: 10px;
+
+}
+#image2{
+    position: relative;
+    top: 10px;
+}
