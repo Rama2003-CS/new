@@ -10,3 +10,4 @@
 | 6 | Grid Area       | [click](/test1/GridArea.html) |
 | 7 | BookMark        | [click](/test1/BookMar.html) |
 | 8 | bootstrap & card| [click](/test1/boot-card.html) |
+| 9 | All             | [click](/test1/all.html) |
